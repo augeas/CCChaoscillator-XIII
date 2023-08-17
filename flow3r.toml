@@ -1,0 +1,12 @@
+[app]
+name = "CCChaoscillator XXIII"
+menu = "Music"
+
+[entry]
+class = "Chaoscillator"
+
+[metadata]
+author = "Giles Greenway"
+license = "WTFPL"
+url = "https://github.com/augeas/CCChaoscillator-XIII"
+
